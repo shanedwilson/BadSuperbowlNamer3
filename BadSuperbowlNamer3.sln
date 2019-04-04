@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperbowlNamer3", "BadSuperbowlNamer3\BadSuperbowlNamer3.csproj", "{1FADBB5D-4F47-47ED-9ED7-271321E8BDFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperbowlNamer3.Tests", "BadSuperbowlNamer3.Tests\BadSuperbowlNamer3.Tests.csproj", "{5EFBE5C5-D6A0-4169-A83C-7976276B7C76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1FADBB5D-4F47-47ED-9ED7-271321E8BDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FADBB5D-4F47-47ED-9ED7-271321E8BDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FADBB5D-4F47-47ED-9ED7-271321E8BDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFBE5C5-D6A0-4169-A83C-7976276B7C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFBE5C5-D6A0-4169-A83C-7976276B7C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFBE5C5-D6A0-4169-A83C-7976276B7C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFBE5C5-D6A0-4169-A83C-7976276B7C76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
