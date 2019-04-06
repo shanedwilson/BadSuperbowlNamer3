@@ -8,6 +8,7 @@ namespace BadSuperbowlNamer3.Tests
         [Theory]
         [InlineData(1, "I")]
         [InlineData(5, "V")]
+        [InlineData( 9, "IX")]
         [InlineData(12, "XII")]
         [InlineData(16, "XVI")]
         [InlineData(29, "XXIX")]
