@@ -11,7 +11,7 @@ namespace BadSuperbowlNamer3
 
         static void startApp()
         {
-            var convertor = new RomanNumeralConvertor();
+            var convertor = new NumberToRomanConvertor();
 
             Console.WriteLine("Please enter the number you would like to convert to Roman numerals");
             var input = Convert.ToInt32(Console.ReadLine());

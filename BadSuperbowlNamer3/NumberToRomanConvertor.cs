@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BadSuperbowlNamer3
 {
-    public class RomanNumeralConvertor
+    public class NumberToRomanConvertor
     {
         Dictionary<int, string> allNumbers = new Dictionary<int, string>()
         {
