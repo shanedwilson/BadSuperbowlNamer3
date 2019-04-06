@@ -31,7 +31,7 @@ namespace BadSuperbowlNamer3.Tests
         public void convert_int_to_Roman(int input, string expectedResult)
         {
             //Arrange
-            var convertor = new RomanNumeralConvertor();
+            var convertor = new NumberToRomanConvertor();
 
             //Act
             var actualResult = convertor.ToRoman(input);
